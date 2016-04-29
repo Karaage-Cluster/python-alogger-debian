@@ -6,3 +6,6 @@
 python-alogger_2.2.8.orig.tar.gz
 34be12e2d55a3365c7c6a4fa0306defaf49cefee
 51991
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"

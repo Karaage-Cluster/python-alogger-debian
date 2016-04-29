@@ -7,8 +7,8 @@ Build-Depends: debhelper (>=8.1.0), dh-python,
  python3-all, python3-setuptools, python3-setuptools-scm,
 Standards-Version: 3.9.8
 Homepage: https://github.com/Karaage-Cluster/python-alogger
-Vcs-Git: git://github.com/Karaage-Cluster/python-alogger
-Vcs-Browser: https://github.com/Karaage-Cluster/python-alogger
+Vcs-Git: git://github.com/Karaage-Cluster/python-alogger-debian
+Vcs-Browser: https://github.com/Karaage-Cluster/python-alogger-debian
 
 Package: python-alogger
 Architecture: all
